@@ -7,7 +7,7 @@ This is the ingredient input function in the restaurant management system. Users
 - Searching for ingredients, adding ingredients (if they do not already exist)
 - Generating invoices.
 ## Video demo
-[Watch the demo](https://drive.google.com/file/d/14smv9veddUQAgoD1Nx-e61B9x4ymRVU1/view?usp=drive_link)
+[![Watch the demo](https://drive.google.com/file/d/1j0hfOcnGADmXhDucG6pdHqhukQC3MNoJ/view)](https://drive.google.com/file/d/14smv9veddUQAgoD1Nx-e61B9x4ymRVU1/view?usp=drive_link)
 ![alt]([https://drive.google.com/file/d/1j0hfOcnGADmXhDucG6pdHqhukQC3MNoJ/view])
 
 ## Requirements
