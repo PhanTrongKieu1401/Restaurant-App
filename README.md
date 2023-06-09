@@ -8,7 +8,7 @@ This is the ingredient input function in the restaurant management system. Users
 - Generating invoices.
 ## Video demo
 [Watch the demo](https://drive.google.com/file/d/14smv9veddUQAgoD1Nx-e61B9x4ymRVU1/view?usp=drive_link)
-![alt]([http://~](https://drive.google.com/file/d/1j0hfOcnGADmXhDucG6pdHqhukQC3MNoJ/view?usp=drive_link))
+![alt]([http://~](https://drive.google.com/file/d/1j0hfOcnGADmXhDucG6pdHqhukQC3MNoJ/view))
 
 ## Requirements
 - JDK 18.0.2: https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html
