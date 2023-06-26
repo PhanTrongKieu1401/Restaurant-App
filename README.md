@@ -7,7 +7,7 @@ This is the ingredient input function in the restaurant management system. Users
 - Searching for ingredients, adding ingredients (if they do not already exist)
 - Generating invoices.
 ## Video demo
-[![Watch the demo](https://imgur.com/rg7ongF)](https://drive.google.com/file/d/14smv9veddUQAgoD1Nx-e61B9x4ymRVU1/view?usp=sharing)
+[![Watch the demo](https://i.imgur.com/rg7ongF.png)](https://drive.google.com/file/d/14smv9veddUQAgoD1Nx-e61B9x4ymRVU1/view?usp=sharing)
 
 ## Requirements
 - JDK 18.0.2: https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html
